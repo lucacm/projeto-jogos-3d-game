@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+
 
 public class PlayerMove : MonoBehaviour
 {
@@ -29,4 +31,6 @@ public class PlayerMove : MonoBehaviour
 
         charController.Move(velocity * Time.deltaTime); 
     }
+    
+    
 }

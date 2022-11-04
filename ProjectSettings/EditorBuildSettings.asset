@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LucaTestBadge.unity
+    guid: cabec9e54913b3447a845479dc3b60ab
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 18338703481f6f447b3fa06106aab4b6
   m_configObjects: {}
