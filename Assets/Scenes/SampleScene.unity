@@ -39227,7 +39227,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7362094385419019243, guid: 423e984f738e39f47a89c3181ab6a940, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.493
+      value: 4.87
       objectReference: {fileID: 0}
     - target: {fileID: 7362094385419019243, guid: 423e984f738e39f47a89c3181ab6a940, type: 3}
       propertyPath: m_LocalPosition.y
@@ -39235,7 +39235,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7362094385419019243, guid: 423e984f738e39f47a89c3181ab6a940, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -8.441
+      value: -10.73
       objectReference: {fileID: 0}
     - target: {fileID: 7362094385419019243, guid: 423e984f738e39f47a89c3181ab6a940, type: 3}
       propertyPath: m_LocalRotation.w
@@ -70356,7 +70356,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 462637d1684921d4795b6921b67e6804, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotationSensitivity: 300
+  rotationSensitivity: 200
   playerBody: {fileID: 119867655287979565}
 --- !u!4 &119867654765998931
 Transform:
@@ -70495,7 +70495,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   charController: {fileID: 119867655287979552}
   gravity: -9.81
-  speed: 1.5
+  speed: 2.5
   jumpHeight: 1
   groundCheck: {fileID: 119867653983607682}
   groundMask:
